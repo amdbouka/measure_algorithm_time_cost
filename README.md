@@ -1,1 +1,2 @@
 # measure_algorithm_time_cost
+Measure the time cost (efficiency) of an algorithm to use the computer’s clock to obtain an actual runtime. Via benchmarking/profiling implement an algorithm that counts from 1 to a million, time the algorithm and output the running time to the terminal window. Triple the problem size of this number and repeat this process. After four such increases, output the results of your program
